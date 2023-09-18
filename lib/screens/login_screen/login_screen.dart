@@ -185,7 +185,7 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
       validator: (value) {
         if (value!.length < 5) {
-          return 'Must be more than 5 characters';
+          return 'Must be more than 6 characters';
         }
       },
     );
