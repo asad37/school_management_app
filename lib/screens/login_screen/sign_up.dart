@@ -104,7 +104,7 @@ class _SignUpState extends State<SignUp> {
                                     context,
                                     MaterialPageRoute(
                                         builder: (context) => LoginScreen()));
-                                Text("User Created");
+                                Text("User SignUp");
                               });
                             } on FirebaseAuthException catch (e) {
                               print("${e.message}");
