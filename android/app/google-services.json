@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795196127433",
+    "project_id": "school-app-fb969",
+    "storage_bucket": "school-app-fb969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795196127433:android:e8b4a390ede728b17fb518",
+        "android_client_info": {
+          "package_name": "com.alixumer.schoolapp.brain_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlJtLCt9OvXzw0U9VuIv6zPEaEN4cVeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
